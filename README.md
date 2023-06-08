@@ -1,1 +1,1 @@
-# ITI-1520-Introduction-l-informatique-I
+# ITI-1520-Introduction à l'informatique I
